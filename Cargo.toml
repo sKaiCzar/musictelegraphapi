@@ -1,6 +1,9 @@
 [package]
 name = "musictelegraphapi"
 version = "0.1.0"
-edition = "2024"
-
+edition = "2021"
+authors = ["sKaiCzar"]
 [dependencies]
+reqwest = "0.12.4"
+tokio = "1.38.0"
+
